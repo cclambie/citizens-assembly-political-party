@@ -7,3 +7,7 @@ This is a repository for ideas and discussion on how a party charter might be cr
 The core tenants being in the principles statement
 
 This is totally open, creative commons licensed - and I encourage contribution, discussion and deep thought around it in order to find a way to bring people back to the forefront of the political discussion - community first, not corporation first.
+
+## Documents so far 
+* [Foundational Principles](Foundational_Principles.md)
+* [Donation Rules](Donation_Rules.md)
